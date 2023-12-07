@@ -5,6 +5,7 @@
     width: 1500px;
     height: 800px;
     border: 2px solid black;
+    position: relative;
 }
 
 .round {
@@ -13,5 +14,6 @@
     background-color: red;
     border-radius: 50%;
     position: absolute;
-    top: 225px; left: 575px;
+    top: 160px;
+    left: 500px;
 }
